@@ -1,0 +1,1 @@
+SELECT fact_id, name, value_0, value_1 FROM materialized_facts
